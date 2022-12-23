@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T09:05:35.902Z" agent="5.0 (X11)" etag="e59P6a9W3OB9ZjhsmOzs" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-23T11:51:11.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9t-vGF2QZ9F8q_hHkOrG" version="20.7.4" type="github">
   <diagram id="iNFQTY-7I5J_9r2u6hXS" name="Страница 1">
-    <mxGraphModel dx="5202" dy="5676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4320" dy="5771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-14" value="Проекты" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="-2520" width="180" height="210" as="geometry" />
+          <mxGeometry x="230" y="-2720" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="qdLe03_AW5Dbt0z4sjmI-14" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -177,7 +177,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdLe03_AW5Dbt0z4sjmI-201" value="Запрос на проект" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-199" vertex="1">
+        <mxCell id="qdLe03_AW5Dbt0z4sjmI-201" value="Данные по проекту" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-199" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -264,7 +264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-81" value="Сотрудники " style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="-2320" width="180" height="400" as="geometry" />
+          <mxGeometry x="960" y="-2640" width="180" height="340" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-82" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="qdLe03_AW5Dbt0z4sjmI-81" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -318,21 +318,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdLe03_AW5Dbt0z4sjmI-94" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qdLe03_AW5Dbt0z4sjmI-81" vertex="1">
-          <mxGeometry y="150" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qdLe03_AW5Dbt0z4sjmI-95" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-94" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdLe03_AW5Dbt0z4sjmI-96" value="Адрес" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-94" vertex="1">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-97" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qdLe03_AW5Dbt0z4sjmI-81" vertex="1">
-          <mxGeometry y="180" width="180" height="30" as="geometry" />
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-98" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-97" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -345,33 +332,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-103" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qdLe03_AW5Dbt0z4sjmI-81" vertex="1">
-          <mxGeometry y="210" width="180" height="30" as="geometry" />
+          <mxGeometry y="180" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-104" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-103" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdLe03_AW5Dbt0z4sjmI-105" value="Стаж работы" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-103" vertex="1">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdLe03_AW5Dbt0z4sjmI-106" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qdLe03_AW5Dbt0z4sjmI-81" vertex="1">
-          <mxGeometry y="240" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qdLe03_AW5Dbt0z4sjmI-107" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-106" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdLe03_AW5Dbt0z4sjmI-108" value="Страховая" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-106" vertex="1">
+        <mxCell id="qdLe03_AW5Dbt0z4sjmI-105" value="Трудовая книжка" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-103" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-109" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qdLe03_AW5Dbt0z4sjmI-81" vertex="1">
-          <mxGeometry y="270" width="180" height="30" as="geometry" />
+          <mxGeometry y="210" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-110" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-109" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -384,7 +358,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-112" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qdLe03_AW5Dbt0z4sjmI-81" vertex="1">
-          <mxGeometry y="300" width="180" height="30" as="geometry" />
+          <mxGeometry y="240" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-113" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-112" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -397,7 +371,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-115" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qdLe03_AW5Dbt0z4sjmI-81" vertex="1">
-          <mxGeometry y="330" width="180" height="30" as="geometry" />
+          <mxGeometry y="270" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-116" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-115" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -410,7 +384,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-118" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qdLe03_AW5Dbt0z4sjmI-81" vertex="1">
-          <mxGeometry y="360" width="180" height="30" as="geometry" />
+          <mxGeometry y="300" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-119" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="qdLe03_AW5Dbt0z4sjmI-118" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -423,7 +397,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-133" value="КлиентДоговорПроект" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry y="-2580" width="180" height="120" as="geometry" />
+          <mxGeometry x="-40" y="-2710" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-134" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="qdLe03_AW5Dbt0z4sjmI-133" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -476,7 +450,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-155" value="Команда" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="-2490" width="180" height="120" as="geometry" />
+          <mxGeometry x="510" y="-2720" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-156" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="qdLe03_AW5Dbt0z4sjmI-155" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -526,7 +500,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-184" value="Участники" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-2320" width="180" height="90" as="geometry" />
+          <mxGeometry x="680" y="-2510" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qdLe03_AW5Dbt0z4sjmI-185" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="qdLe03_AW5Dbt0z4sjmI-184" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
